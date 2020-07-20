@@ -1,0 +1,18 @@
+pwd
+ls
+cd
+git init 
+git status 
+git log
+git clone ***
+git diff
+.gitignore
+git add --a (Add all the things in staging area)
+git commit -a -m"Direct Commit" (Tracking req)
+git add .
+git commit -m "Changes"
+rm -rf.git 
+git rm *.txt
+git mv *.txt **.txt
+git rm --cached *.log
+git -checkout -f
